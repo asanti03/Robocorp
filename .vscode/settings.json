@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "c:/Users/ASanti03/OneDrive - Kenvue/Documents/Robocorp/LevelTwo/."
+    ],
+    "python.terminal.activateEnvironment": false
+}
